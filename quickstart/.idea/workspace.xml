@@ -2,6 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8675f22f-1b27-436b-aeaf-b02e0f942d78" name="Default" comment="commit aop module first">
+      <change afterPath="$PROJECT_DIR$/../IoC/logs/my_log.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/src/main/java/com/spring/aop/IoC/di/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/src/main/java/com/spring/aop/IoC/di/MessagePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/src/main/java/com/spring/aop/IoC/di/service/MessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/src/main/java/com/spring/aop/IoC/di/service/MessageServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/src/main/java/com/spring/aop/IoC/exercise/Boss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/src/main/java/com/spring/aop/IoC/exercise/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/src/main/java/com/spring/aop/IoC/exercise/Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/src/main/java/com/spring/aop/IoC/exercise/Meeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/src/main/java/com/spring/aop/IoC/exercise/MeetingApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/src/main/java/com/spring/aop/IoC/exercise/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/src/main/java/com/spring/aop/IoC/exercise/UserLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/src/main/resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/src/test/java/com/spring/aop/IoC/exercise/MaxTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/src/test/java/com/spring/aop/IoC/exercise/UserLoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/target/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/target/classes/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/target/classes/com/spring/IoC/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/target/classes/com/spring/IoC/di/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/target/classes/com/spring/IoC/di/MessagePrinter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/target/classes/com/spring/IoC/di/service/MessageService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/target/classes/com/spring/IoC/di/service/MessageServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/target/classes/com/spring/IoC/exercise/Boss.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/target/classes/com/spring/IoC/exercise/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/target/classes/com/spring/IoC/exercise/Max.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/target/classes/com/spring/IoC/exercise/Meeting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/target/classes/com/spring/IoC/exercise/MeetingApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/target/classes/com/spring/IoC/exercise/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/target/classes/com/spring/IoC/exercise/UserLogin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/target/classes/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/target/test-classes/com/spring/IoC/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/target/test-classes/com/spring/IoC/exercise/MaxTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IoC/target/test-classes/com/spring/IoC/exercise/UserLoginTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aop/aop.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aop/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aop/src/main/java/com/spring/aop/Car.java" afterDir="false" />
@@ -15,6 +52,49 @@
       <change afterPath="$PROJECT_DIR$/../aop/src/main/java/com/spring/aop/TankProxy.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aop/src/main/resources/applicationContext.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aop/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aop/target/classes/META-INF/aop.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aop/target/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aop/target/classes/com/spring/aop/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aop/target/classes/com/spring/aop/Hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aop/target/classes/com/spring/aop/HelloApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aop/target/classes/com/spring/aop/HelloImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aop/target/classes/com/spring/aop/Move.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aop/target/classes/com/spring/aop/MoveApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aop/target/classes/com/spring/aop/MyBeforeAdvice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aop/target/classes/com/spring/aop/Tank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aop/target/classes/com/spring/aop/TankProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aop/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aop/target/test-classes/META-INF/aop.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/my_log.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/aop/IoC/quickstart/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/aop/IoC/quickstart/annotation/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/aop/IoC/quickstart/annotation/HelloApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/aop/IoC/quickstart/annotation/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/aop/IoC/quickstart/annotation/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/aop/IoC/quickstart/annotation/StudentApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/aop/IoC/quickstart/xml/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/aop/IoC/quickstart/xml/HelloWorldApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/aop/IoC/quickstart/xml/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/aop/IoC/quickstart/xml/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/aop/IoC/quickstart/xml/StudentApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/spring/aop/IoC/quickstart/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IoC/IoC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../IoC/IoC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IoC/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IoC/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IoC/src/main/java/com/spring/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IoC/src/main/java/com/spring/aop/IoC/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IoC/src/test/java/com/spring/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IoC/src/test/java/com/spring/aop/IoC/AppTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -126,36 +206,6 @@
           <expand>
             <path>
               <item name="quickstart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="quickstart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="quickstart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="quickstart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="quickstart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="aop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="quickstart" type="b2602c69:ProjectViewProjectNode" />
               <item name="IoC" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -204,7 +254,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551924997654" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551925718582" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="last_opened_file_path" value="D:/helloword" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
@@ -490,7 +540,7 @@
       <workItem from="1551689592928" duration="602000" />
       <workItem from="1551692409364" duration="406000" />
       <workItem from="1551696033632" duration="3678000" />
-      <workItem from="1551917741886" duration="6726000" />
+      <workItem from="1551917741886" duration="7257000" />
     </task>
     <task id="LOCAL-00001" summary="commit aop module">
       <created>1551924770178</created>
@@ -499,7 +549,14 @@
       <option name="project" value="LOCAL" />
       <updated>1551924770178</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit aop module first">
+      <created>1551925075186</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1551925075186</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -535,7 +592,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27392000" />
+    <option name="totallyTimeSpent" value="27923000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1552" height="840" extended-state="0" />
