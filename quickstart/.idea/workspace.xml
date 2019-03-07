@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8675f22f-1b27-436b-aeaf-b02e0f942d78" name="Default" comment="">
+    <list default="true" id="8675f22f-1b27-436b-aeaf-b02e0f942d78" name="Default" comment="commit aop module">
       <change afterPath="$PROJECT_DIR$/../aop/aop.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aop/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aop/src/main/java/com/spring/aop/Car.java" afterDir="false" />
@@ -15,51 +15,9 @@
       <change afterPath="$PROJECT_DIR$/../aop/src/main/java/com/spring/aop/TankProxy.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aop/src/main/resources/applicationContext.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aop/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_5_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IoC/IoC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../IoC/IoC.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IoC/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IoC/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IoC/src/main/java/com/spring/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IoC/src/main/java/com/spring/IoC/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IoC/src/main/java/com/spring/IoC/di/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IoC/src/main/java/com/spring/IoC/di/MessagePrinter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IoC/src/main/java/com/spring/IoC/di/service/MessageService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IoC/src/main/java/com/spring/IoC/di/service/MessageServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IoC/src/main/java/com/spring/IoC/exercise/Boss.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IoC/src/main/java/com/spring/IoC/exercise/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IoC/src/main/java/com/spring/IoC/exercise/Meeting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IoC/src/main/java/com/spring/IoC/exercise/MeetingApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IoC/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IoC/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IoC/src/main/resources/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IoC/src/main/resources/spring.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IoC/src/test/java/com/spring/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IoC/src/test/java/com/spring/IoC/AppTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../IoC/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IoC/target/classes/applicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IoC/target/classes/com/spring/IoC/exercise/MeetingApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IoC/target/classes/com/spring/IoC/exercise/MeetingApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/quickstart/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/quickstart/annotation/Hello.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/quickstart/annotation/HelloApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/quickstart/annotation/Phone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/quickstart/annotation/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/quickstart/annotation/StudentApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/quickstart/xml/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/quickstart/xml/HelloWorldApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/quickstart/xml/Phone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/quickstart/xml/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/quickstart/xml/StudentApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/spring/quickstart/AppTest.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/../IoC/target/" />
@@ -165,7 +123,82 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="quickstart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quickstart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quickstart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quickstart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quickstart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quickstart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IoC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quickstart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IoC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quickstart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IoC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quickstart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IoC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quickstart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IoC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quickstart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IoC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="IoC" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
@@ -173,7 +206,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551924620438" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551924936629" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="last_opened_file_path" value="D:/helloword" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
@@ -459,8 +492,16 @@
       <workItem from="1551689592928" duration="602000" />
       <workItem from="1551692409364" duration="406000" />
       <workItem from="1551696033632" duration="3678000" />
-      <workItem from="1551917741886" duration="6173000" />
+      <workItem from="1551917741886" duration="6432000" />
     </task>
+    <task id="LOCAL-00001" summary="commit aop module">
+      <created>1551924770178</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551924770178</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -496,7 +537,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26839000" />
+    <option name="totallyTimeSpent" value="27098000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1552" height="840" extended-state="0" />
@@ -538,6 +579,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit aop module" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit aop module" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
