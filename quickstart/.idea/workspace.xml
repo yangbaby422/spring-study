@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8675f22f-1b27-436b-aeaf-b02e0f942d78" name="Default" comment="commit aop module">
+    <list default="true" id="8675f22f-1b27-436b-aeaf-b02e0f942d78" name="Default" comment="commit aop module first">
       <change afterPath="$PROJECT_DIR$/../aop/aop.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aop/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aop/src/main/java/com/spring/aop/Car.java" afterDir="false" />
@@ -15,8 +15,6 @@
       <change afterPath="$PROJECT_DIR$/../aop/src/main/java/com/spring/aop/TankProxy.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aop/src/main/resources/applicationContext.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aop/src/main/resources/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IoC/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IoC/target/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IoC/target/classes/com/spring/IoC/exercise/MeetingApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IoC/target/classes/com/spring/IoC/exercise/MeetingApp.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -206,7 +204,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551924979660" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551924997654" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="last_opened_file_path" value="D:/helloword" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
@@ -492,7 +490,7 @@
       <workItem from="1551689592928" duration="602000" />
       <workItem from="1551692409364" duration="406000" />
       <workItem from="1551696033632" duration="3678000" />
-      <workItem from="1551917741886" duration="6432000" />
+      <workItem from="1551917741886" duration="6726000" />
     </task>
     <task id="LOCAL-00001" summary="commit aop module">
       <created>1551924770178</created>
@@ -537,7 +535,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27098000" />
+    <option name="totallyTimeSpent" value="27392000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1552" height="840" extended-state="0" />
@@ -582,7 +580,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit aop module" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit aop module" />
+    <MESSAGE value="commit aop module first" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit aop module first" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
