@@ -742,8 +742,8 @@
 2019-03-11 08:27:17 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
 2019-03-11 08:27:17 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'fighter'
 2019-03-11 08:27:18 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'tiger'
-2019-03-11 08:27:18 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void com.spring.aop.Fighter.foundBefore()
-2019-03-11 08:27:18 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void com.spring.aop.Fighter.foundAfter()
+2019-03-11 08:27:18 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void Fighter.foundBefore()
+2019-03-11 08:27:18 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void Fighter.foundAfter()
 2019-03-11 09:32:58 DEBUG ClassPathXmlApplicationContext:594 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@163006a
 2019-03-11 09:32:59 DEBUG XmlBeanDefinitionReader:395 - Loaded 3 bean definitions from class path resource [beans.xml]
 2019-03-11 09:32:59 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
@@ -841,8 +841,8 @@
 2019-03-11 09:50:10 DEBUG XmlBeanDefinitionReader:395 - Loaded 3 bean definitions from class path resource [beans.xml]
 2019-03-11 09:50:10 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
 2019-03-11 09:50:10 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'imageCopy'
-2019-03-11 09:50:11 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void com.spring.aop.ImageHandler.pressTextOnImage()
-2019-03-11 09:50:11 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void com.spring.aop.ImageHandler.grayImage()
+2019-03-11 09:50:11 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void ImageHandler.pressTextOnImage()
+2019-03-11 09:50:11 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void ImageHandler.grayImage()
 2019-03-11 09:50:11 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'imageHandler'
 2019-03-11 09:50:11  INFO ImageHandler:23 - 开始给图片添加水印
 2019-03-11 09:50:11  INFO ImageCopy:13 - 开始将图片从D盘复制到E盘...
@@ -851,8 +851,8 @@
 2019-03-11 09:50:48 DEBUG XmlBeanDefinitionReader:395 - Loaded 3 bean definitions from class path resource [beans.xml]
 2019-03-11 09:50:48 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
 2019-03-11 09:50:48 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'imageCopy'
-2019-03-11 09:50:48 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void com.spring.aop.ImageHandler.pressTextOnImage()
-2019-03-11 09:50:48 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void com.spring.aop.ImageHandler.grayImage()
+2019-03-11 09:50:48 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void ImageHandler.pressTextOnImage()
+2019-03-11 09:50:48 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void ImageHandler.grayImage()
 2019-03-11 09:50:48 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'imageHandler'
 2019-03-11 09:50:49  INFO ImageHandler:23 - 开始给图片添加水印
 2019-03-11 09:50:49  INFO ImageCopy:13 - 开始将图片从D盘复制到E盘...
@@ -861,8 +861,8 @@
 2019-03-11 09:50:56 DEBUG XmlBeanDefinitionReader:395 - Loaded 3 bean definitions from class path resource [beans.xml]
 2019-03-11 09:50:56 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
 2019-03-11 09:50:56 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'imageCopy'
-2019-03-11 09:50:56 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void com.spring.aop.ImageHandler.pressTextOnImage()
-2019-03-11 09:50:56 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void com.spring.aop.ImageHandler.grayImage()
+2019-03-11 09:50:56 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void ImageHandler.pressTextOnImage()
+2019-03-11 09:50:56 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void ImageHandler.grayImage()
 2019-03-11 09:50:56 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'imageHandler'
 2019-03-11 09:50:56  INFO ImageHandler:23 - 开始给图片添加水印
 2019-03-11 09:50:57  INFO ImageCopy:13 - 开始将图片从D盘复制到E盘...
@@ -871,8 +871,8 @@
 2019-03-11 09:53:54 DEBUG XmlBeanDefinitionReader:395 - Loaded 3 bean definitions from class path resource [beans.xml]
 2019-03-11 09:53:54 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
 2019-03-11 09:53:54 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'imageCopy'
-2019-03-11 09:53:54 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void com.spring.aop.ImageHandler.pressTextOnImage()
-2019-03-11 09:53:54 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void com.spring.aop.ImageHandler.grayImage()
+2019-03-11 09:53:54 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void ImageHandler.pressTextOnImage()
+2019-03-11 09:53:54 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void ImageHandler.grayImage()
 2019-03-11 09:53:54 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'imageHandler'
 2019-03-11 09:53:54  INFO ImageHandler:23 - 开始给图片添加水印
 2019-03-11 09:54:44 DEBUG ClassPathXmlApplicationContext:594 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@163006a
@@ -880,24 +880,24 @@
 2019-03-11 09:55:06 DEBUG XmlBeanDefinitionReader:395 - Loaded 3 bean definitions from class path resource [beans.xml]
 2019-03-11 09:55:06 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
 2019-03-11 09:55:06 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'imageCopy'
-2019-03-11 09:55:06 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void com.spring.aop.ImageHandler.pressTextOnImage()
-2019-03-11 09:55:06 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void com.spring.aop.ImageHandler.grayImage()
+2019-03-11 09:55:06 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void ImageHandler.pressTextOnImage()
+2019-03-11 09:55:06 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void ImageHandler.grayImage()
 2019-03-11 09:55:06 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'imageHandler'
 2019-03-11 09:55:06  INFO ImageHandler:23 - 开始给图片添加水印
 2019-03-11 09:55:18 DEBUG ClassPathXmlApplicationContext:594 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@163006a
 2019-03-11 09:55:19 DEBUG XmlBeanDefinitionReader:395 - Loaded 3 bean definitions from class path resource [beans.xml]
 2019-03-11 09:55:19 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
 2019-03-11 09:55:19 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'imageCopy'
-2019-03-11 09:55:19 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void com.spring.aop.ImageHandler.pressTextOnImage()
-2019-03-11 09:55:19 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void com.spring.aop.ImageHandler.grayImage()
+2019-03-11 09:55:19 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void ImageHandler.pressTextOnImage()
+2019-03-11 09:55:19 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void ImageHandler.grayImage()
 2019-03-11 09:55:19 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'imageHandler'
 2019-03-11 09:55:19  INFO ImageHandler:23 - 开始给图片添加水印
 2019-03-11 09:55:42 DEBUG ClassPathXmlApplicationContext:594 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@163006a
 2019-03-11 09:55:42 DEBUG XmlBeanDefinitionReader:395 - Loaded 3 bean definitions from class path resource [beans.xml]
 2019-03-11 09:55:42 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
 2019-03-11 09:55:42 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'imageCopy'
-2019-03-11 09:55:42 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void com.spring.aop.ImageHandler.pressTextOnImage()
-2019-03-11 09:55:42 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void com.spring.aop.ImageHandler.grayImage()
+2019-03-11 09:55:42 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void ImageHandler.pressTextOnImage()
+2019-03-11 09:55:42 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void ImageHandler.grayImage()
 2019-03-11 09:55:42 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'imageHandler'
 2019-03-11 09:55:42  INFO ImageHandler:23 - 开始给图片添加水印
 2019-03-11 09:55:42  INFO ImageCopy:13 - 开始将图片从D盘复制到E盘...
@@ -906,8 +906,8 @@
 2019-03-11 09:57:34 DEBUG XmlBeanDefinitionReader:395 - Loaded 3 bean definitions from class path resource [beans.xml]
 2019-03-11 09:57:34 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
 2019-03-11 09:57:34 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'imageCopy'
-2019-03-11 09:57:34 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void com.spring.aop.ImageHandler.pressTextOnImage()
-2019-03-11 09:57:34 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void com.spring.aop.ImageHandler.grayImage()
+2019-03-11 09:57:34 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void ImageHandler.pressTextOnImage()
+2019-03-11 09:57:34 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void ImageHandler.grayImage()
 2019-03-11 09:57:34 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'imageHandler'
 2019-03-11 09:57:35  INFO ImageHandler:23 - 开始给图片添加水印
 2019-03-11 09:57:35  INFO ImageCopy:13 - 开始将图片从D盘复制到E盘...
@@ -916,8 +916,8 @@
 2019-03-11 09:58:24 DEBUG XmlBeanDefinitionReader:395 - Loaded 3 bean definitions from class path resource [beans.xml]
 2019-03-11 09:58:24 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
 2019-03-11 09:58:24 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'imageCopy'
-2019-03-11 09:58:24 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void com.spring.aop.ImageHandler.pressTextOnImage()
-2019-03-11 09:58:24 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void com.spring.aop.ImageHandler.grayImage()
+2019-03-11 09:58:24 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void ImageHandler.pressTextOnImage()
+2019-03-11 09:58:24 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void ImageHandler.grayImage()
 2019-03-11 09:58:25 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'imageHandler'
 2019-03-11 09:58:25  INFO ImageHandler:23 - 开始给图片添加水印
 2019-03-11 09:58:25  INFO ImageCopy:13 - 开始将图片从D盘复制到E盘...
@@ -926,8 +926,8 @@
 2019-03-11 09:59:04 DEBUG XmlBeanDefinitionReader:395 - Loaded 3 bean definitions from class path resource [beans.xml]
 2019-03-11 09:59:04 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
 2019-03-11 09:59:04 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'imageCopy'
-2019-03-11 09:59:04 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void com.spring.aop.ImageHandler.pressTextOnImage()
-2019-03-11 09:59:04 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void com.spring.aop.ImageHandler.grayImage()
+2019-03-11 09:59:04 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void ImageHandler.pressTextOnImage()
+2019-03-11 09:59:04 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void ImageHandler.grayImage()
 2019-03-11 09:59:04 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'imageHandler'
 2019-03-11 09:59:04  INFO ImageHandler:23 - 开始给图片添加水印
 2019-03-11 09:59:04  INFO ImageCopy:13 - 开始将图片从D盘复制到E盘...
@@ -936,8 +936,8 @@
 2019-03-11 10:28:18 DEBUG XmlBeanDefinitionReader:395 - Loaded 3 bean definitions from class path resource [beans.xml]
 2019-03-11 10:28:18 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
 2019-03-11 10:28:18 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'imageCopy'
-2019-03-11 10:28:18 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void com.spring.aop.ImageHandler.pressTextOnImage() throws java.io.IOException
-2019-03-11 10:28:18 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void com.spring.aop.ImageHandler.grayImage()
+2019-03-11 10:28:18 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void ImageHandler.pressTextOnImage() throws java.io.IOException
+2019-03-11 10:28:18 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void ImageHandler.grayImage()
 2019-03-11 10:28:19 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'imageHandler'
 2019-03-11 10:28:19  INFO ImageHandler:26 - 开始给图片添加水印
 2019-03-11 10:28:19  INFO ImageCopy:13 - 开始将图片从D盘复制到E盘...
@@ -946,8 +946,8 @@
 2019-03-11 10:30:57 DEBUG XmlBeanDefinitionReader:395 - Loaded 3 bean definitions from class path resource [beans.xml]
 2019-03-11 10:30:57 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
 2019-03-11 10:30:57 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'imageCopy'
-2019-03-11 10:30:57 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void com.spring.aop.ImageHandler.pressTextOnImage() throws java.io.IOException
-2019-03-11 10:30:57 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void com.spring.aop.ImageHandler.grayImage()
+2019-03-11 10:30:57 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void ImageHandler.pressTextOnImage() throws java.io.IOException
+2019-03-11 10:30:57 DEBUG ReflectiveAspectJAdvisorFactory:243 - Found AspectJ method: public void ImageHandler.grayImage()
 2019-03-11 10:30:57 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'imageHandler'
 2019-03-11 10:30:58  INFO ImageHandler:26 - 开始给图片添加水印
 2019-03-11 10:30:58  INFO ImageCopy:13 - 开始将图片从D盘复制到E盘...

@@ -9,6 +9,7 @@
         <module name="aop" />
         <module name="IoC" />
         <module name="jianshu" />
+        <module name="orm" />
         <module name="quickstart" />
       </profile>
     </annotationProcessing>
@@ -16,6 +17,7 @@
       <module name="aop" target="1.8" />
       <module name="IoC" target="1.8" />
       <module name="jianshu" target="1.5" />
+      <module name="orm" target="1.8" />
       <module name="quickstart" target="1.8" />
     </bytecodeTargetLevel>
   </component>
