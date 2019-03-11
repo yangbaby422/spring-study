@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jianshu:war">
+    <output-path>$PROJECT_DIR$/../jianshu/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>jianshu</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="jianshu-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="jianshu:war exploded" />
+    </root>
+  </artifact>
+</component>

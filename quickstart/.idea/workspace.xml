@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8675f22f-1b27-436b-aeaf-b02e0f942d78" name="Default" comment="aabb">
+    <list default="true" id="8675f22f-1b27-436b-aeaf-b02e0f942d78" name="Default" comment="aaa">
       <change afterPath="$PROJECT_DIR$/../jianshu/jianshu.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jianshu/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jianshu/src/main/resources/img/me.jpg" afterDir="false" />
@@ -92,8 +92,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../aop/src/main/java/com/spring/aop/QrCodeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+            <state relative-caret-position="275">
+              <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -227,6 +227,29 @@
               <item name="quickstart" type="b2602c69:ProjectViewProjectNode" />
               <item name="aop" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="quickstart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quickstart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quickstart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quickstart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -237,7 +260,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552274527628" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552274863562" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="D:/helloword" />
@@ -522,7 +545,7 @@
       <workItem from="1551917741886" duration="10665000" />
       <workItem from="1551929251177" duration="1093000" />
       <workItem from="1551955958199" duration="6436000" />
-      <workItem from="1552262416715" duration="10830000" />
+      <workItem from="1552262416715" duration="11161000" />
     </task>
     <task id="LOCAL-00001" summary="commit aop module">
       <created>1551924770178</created>
@@ -573,7 +596,14 @@
       <option name="project" value="LOCAL" />
       <updated>1552274246576</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="aaa">
+      <created>1552274546648</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1552274546648</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -609,7 +639,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49690000" />
+    <option name="totallyTimeSpent" value="50021000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1552" height="840" extended-state="0" />
@@ -660,7 +690,8 @@
     <MESSAGE value="add jianshu commit" />
     <MESSAGE value="aaaaaaa" />
     <MESSAGE value="aabb" />
-    <option name="LAST_COMMIT_MESSAGE" value="aabb" />
+    <MESSAGE value="aaa" />
+    <option name="LAST_COMMIT_MESSAGE" value="aaa" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1110,8 +1141,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../aop/src/main/java/com/spring/aop/QrCodeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        <state relative-caret-position="275">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
