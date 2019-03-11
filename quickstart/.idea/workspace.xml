@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8675f22f-1b27-436b-aeaf-b02e0f942d78" name="Default" comment="aaaaaaa">
+    <list default="true" id="8675f22f-1b27-436b-aeaf-b02e0f942d78" name="Default" comment="aabb">
       <change afterPath="$PROJECT_DIR$/../jianshu/jianshu.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jianshu/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jianshu/src/main/resources/img/me.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_4_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_zxing_core_3_3_3.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../aop/aop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../aop/aop.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../aop/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../aop/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../aop/src/main/java/com/spring/aop/MyBeforeAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aop/src/main/java/com/spring/aop/MyBeforeAdvice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../aop/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../aop/src/main/resources/applicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../aop/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../aop/target/classes/applicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../aop/target/classes/com/spring/aop/MyBeforeAdvice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aop/target/classes/com/spring/aop/MyBeforeAdvice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/my_log.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/my_log.log" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/../IoC/target/" />
@@ -96,8 +92,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../aop/src/main/java/com/spring/aop/QrCodeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+            <state relative-caret-position="300">
+              <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -231,39 +227,6 @@
               <item name="quickstart" type="b2602c69:ProjectViewProjectNode" />
               <item name="aop" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="quickstart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="quickstart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="quickstart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="quickstart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="aop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="quickstart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -274,7 +237,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552274210616" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552274527628" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="D:/helloword" />
@@ -559,7 +522,7 @@
       <workItem from="1551917741886" duration="10665000" />
       <workItem from="1551929251177" duration="1093000" />
       <workItem from="1551955958199" duration="6436000" />
-      <workItem from="1552262416715" duration="10531000" />
+      <workItem from="1552262416715" duration="10830000" />
     </task>
     <task id="LOCAL-00001" summary="commit aop module">
       <created>1551924770178</created>
@@ -596,7 +559,21 @@
       <option name="project" value="LOCAL" />
       <updated>1551927617122</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="aabb">
+      <created>1552274233365</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1552274233365</updated>
+    </task>
+    <task id="LOCAL-00007" summary="aabb">
+      <created>1552274246576</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1552274246576</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -632,11 +609,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49391000" />
+    <option name="totallyTimeSpent" value="49690000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1552" height="840" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Capture Tool" order="0" />
       <window_info id="Designer" order="1" />
@@ -651,10 +627,10 @@
       <window_info anchor="bottom" id="Messages" order="1" weight="0.32894737" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Spring" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32846716" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.32748538" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.32894737" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.32894737" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -683,7 +659,8 @@
     <MESSAGE value="commit aop module first" />
     <MESSAGE value="add jianshu commit" />
     <MESSAGE value="aaaaaaa" />
-    <option name="LAST_COMMIT_MESSAGE" value="aaaaaaa" />
+    <MESSAGE value="aabb" />
+    <option name="LAST_COMMIT_MESSAGE" value="aabb" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1133,8 +1110,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../aop/src/main/java/com/spring/aop/QrCodeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        <state relative-caret-position="300">
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
