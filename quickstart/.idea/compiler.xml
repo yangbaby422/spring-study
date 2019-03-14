@@ -11,6 +11,7 @@
         <module name="jianshu" />
         <module name="orm" />
         <module name="quickstart" />
+        <module name="web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -19,6 +20,7 @@
       <module name="jianshu" target="1.5" />
       <module name="orm" target="1.8" />
       <module name="quickstart" target="1.8" />
+      <module name="web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

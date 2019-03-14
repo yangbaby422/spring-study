@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/../jianshu/jianshu.iml" filepath="$PROJECT_DIR$/../jianshu/jianshu.iml" />
       <module fileurl="file://$PROJECT_DIR$/../orm/orm.iml" filepath="$PROJECT_DIR$/../orm/orm.iml" />
       <module fileurl="file://$PROJECT_DIR$/quickstart.iml" filepath="$PROJECT_DIR$/quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../web/web.iml" filepath="$PROJECT_DIR$/../web/web.iml" />
     </modules>
   </component>
 </project>
