@@ -6,4 +6,5 @@ import java.util.List;
 
 public interface CourseService {
     List<CourseVO> selectCurrentCourses();
+     List<CourseVO> selectCurrentCourses1();
 }

@@ -21,4 +21,9 @@ public class CourseServiceImplTest {
         List<CourseVO> courseVOList = courseService.selectCurrentCourses();
         courseVOList.forEach(courseVO -> System.out.println(courseVO));
     }
+    @Test
+    public void selectCurrentCourses1() {
+        List<CourseVO> courseVOList = courseService.selectCurrentCourses1();
+        courseVOList.forEach(courseVO -> System.out.println(courseVO));
+    }
 }

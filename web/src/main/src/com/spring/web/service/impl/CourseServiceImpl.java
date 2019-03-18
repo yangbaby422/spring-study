@@ -21,4 +21,12 @@ public class CourseServiceImpl implements CourseService {
     public List<CourseVO> selectCurrentCourses() {
         return courseDAO.selectCurrentCourses();
     }
+
+    @Override
+    public List<CourseVO> selectCurrentCourses1() {
+        return courseDAO.selectCurrentCourses1();
+    }
+
+
+
 }
